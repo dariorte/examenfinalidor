@@ -33,7 +33,7 @@ header {
   height: 600px;
   background: linear-gradient(
       90deg,
-      hsla(0, 4%, 91%, 0.623) 23%,
+      hsla(0, 0%, 100%, 0.623) 23%,
       hsla(213, 100%, 50%, 0.603) 100%
     ),
     url(../img/img\ 3.png);
